@@ -17,4 +17,4 @@ Install my-project with npm
  ./MorseCipher 
 ```
 
-    ![2024-03-10_17-00](https://github.com/Er-Sadiq/Morse-s-Cipher/assets/125464939/cff3f5b2-34db-4f50-8a67-cbe744902e54)
+   ![2024-03-10_17-00](https://github.com/Er-Sadiq/Morse-s-Cipher/assets/125464939/cff3f5b2-34db-4f50-8a67-cbe744902e54)
